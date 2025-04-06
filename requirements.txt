@@ -9,3 +9,4 @@ sentence-transformers
 tensorflow==2.19
 keras==3.9
 tf-keras
+reportlab
