@@ -6,9 +6,6 @@ ollama
 requests
 faiss-cpu
 sentence-transformers
-tensorflow==2.19
-keras==3.9
-tf-keras
+tensorflow==2.15.0
 reportlab
 transformers>=4.27.0
-
