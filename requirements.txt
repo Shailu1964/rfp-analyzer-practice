@@ -10,3 +10,5 @@ tensorflow==2.19
 keras==3.9
 tf-keras
 reportlab
+transformers>=4.27.0
+
