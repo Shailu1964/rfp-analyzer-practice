@@ -1,0 +1,11 @@
+streamlit
+python-docx
+PyPDF2
+python-dotenv
+ollama
+requests
+faiss-cpu
+sentence-transformers
+tensorflow==2.19
+keras==3.9
+tf-keras
